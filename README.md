@@ -102,8 +102,6 @@ We welcome contributions to this template. Please read our contribution guidelin
 
 For additional information or questions about the project, you can reach out to the following individuals:
 
-- hamsomp3@hotmail.com
-- japolanco@uao.edu.co
-- [LinkedIn](https://www.linkedin.com/in/jan-polanco-velasco/)
+- santiago.loaiza@uao.edu.co
 
-We will be happy to assist you. Thank you for your interest in this project!
+Thank you for your interest in this project!
